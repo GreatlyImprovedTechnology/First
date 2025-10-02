@@ -1,5 +1,5 @@
 # by: JOR
-# date: 02OCT25
+# date: 03OCT25
 
 sudo apt update
 sudo apt upgrade -y
