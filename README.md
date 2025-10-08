@@ -12,6 +12,12 @@ Run the command
 git clone hyperlink
 ```
 
-How to Use the Project. ...
-Include Credits. ...
-Add a License. ... 
+## Project
+How this project should be used
+
+## Dependencies
+
+
+## Credits
+
+## License 
