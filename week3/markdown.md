@@ -6,3 +6,4 @@ This document is a template for markdown which can be copied into any project, a
 This is a new line...or is it?
 
 To show __bold__ use two underscaore, before and after the word.
+To show _italics_ use a single underscore.
