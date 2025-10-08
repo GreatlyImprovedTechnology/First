@@ -4,6 +4,6 @@
 Blah!
 
 | Command     | Description | Example          |
-| ----------- | ----------- |
+| ----------- | ----------- | ---------------- |
 | Eat!        | Fun         | !McDonalds       | 
 | Paragraph   | Text        |                  | 
