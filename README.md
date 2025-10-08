@@ -1,5 +1,17 @@
-# First demo repo
+# Project Title
+## Project Description. 
 
-by: **JOR**
+## One paragraph summarizing the purpose of this repo
 
-date: *02OCT25*
+## Table of Contents
+
+## Install and Run Instruction
+Run the command 
+
+```
+git clone hyperlink
+```
+
+How to Use the Project. ...
+Include Credits. ...
+Add a License. ... 
