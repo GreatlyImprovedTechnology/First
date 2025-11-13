@@ -9,7 +9,7 @@
 Run the command 
 
 ```
-git clone hyperlink
+git clone hyperlink stuff
 ```
 
 ## Project
